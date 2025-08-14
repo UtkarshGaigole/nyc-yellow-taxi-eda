@@ -17,8 +17,7 @@ The goal is to demonstrate why EDA is a crucial step in the **data science** and
 │   ├── 01_data_sampling.ipynb        # Data loading and sampling
 │   ├── 02_data_cleaning.ipynb        # Data preprocessing and cleaning
 │   └── 03_exploratory_analysis.ipynb # EDA, visualizations, and insights
-├── README.md                         # Project description and usage
-└── requirements.txt                  # Python dependencies
+└── README.md                         # Project description and usage
 ```
 
 ---
